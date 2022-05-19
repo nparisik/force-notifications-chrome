@@ -10,6 +10,6 @@ I decided to make this demo because it happened to me on my company-issue work c
 
 ## Links
 
-This link will take you to a webpage that asks Chrome permission to display notifications: <a href="proper-test.html" title="Proper Test">Proper Example</a>
+This link will take you to a webpage that (properly) asks user permission for notifications: <a href="proper-test.html" title="Proper Test">Proper ex.</a>
 
 This link will take you to a webpage that ignores user input and forces notifications: <a href="attack-test.html" title="Attack Test">Attack Test</a>
