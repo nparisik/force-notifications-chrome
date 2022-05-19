@@ -11,5 +11,3 @@
         <button onclick="notifyMe()">Click for Desktop Ad</button>
         <p>
         <a href="index.html" title="Main page">Click here to return to the main page.</a>
-    </body>
-</html>
