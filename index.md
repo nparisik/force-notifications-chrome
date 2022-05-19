@@ -12,4 +12,4 @@ I decided to make this demo because it happened to me on my company-issue work c
 
 This link will take you to a webpage that asks Chrome permission to display notifications: <a href="proper-test.html" title="Proper Test">Proper Test</a>
 
-This link will take you to a webpage that bypasses this process and instead forces notifications: LINK COMING SOON
+This link will take you to a webpage that ignores user input and forces notifications: <a href="attack-test.html" title="Attack Test">Attack Test</a>
