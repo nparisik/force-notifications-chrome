@@ -6,6 +6,7 @@
     <body>
         <h1>As you can see...</h1>
         <p>This page ASKS user permission to enable send notifications!</p>
+        <button onclick="notifyMe()">Notify me!</button>
         <a href="index.html" title="Main page">Click here to return to main page.</a>
     </body>
 </html>
