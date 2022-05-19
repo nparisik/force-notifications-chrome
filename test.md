@@ -1,7 +1,6 @@
 ---
 permalink: /test.html
 ---
-<!DOCTYPE html>
 <html>
     <head>
         <title>'Force allow notifications' Test</title>
